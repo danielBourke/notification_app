@@ -1,0 +1,6 @@
+export const INCREMENT = "INCREMENT"
+export const DECREMENT = "DECREMENT"
+export const ACCEPT = "ACCEPT"
+export const DECLINE = "DECLINE"
+export const REJECT = "REJECT"
+export const SELF_MESSAGE = "SELF_MESSAGE"
